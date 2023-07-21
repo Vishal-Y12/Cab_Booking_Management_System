@@ -27,7 +27,7 @@ JDBC Connection 🔌: Java Database Connectivity for establishing connections be
 Install Java and MySQL on your system if not already installed.</br></br>
 Create a MySQL database and import the provided SQL schema to set up the necessary tables.</br></br>
 Update the database connection details (URL, username, and password) in the Java code.</br></br>
-Compile and run the HomePage.java file, which serves as the entry point for the application.
+Compile and run the Index.java file, which serves as the entry point for the application.
 </br></br></h4>
 <h2>Future Improvements 🚀</h2>
 <h4>The project has tremendous potential for further enhancements:</br></br>
