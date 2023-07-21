@@ -3,7 +3,7 @@
 <h2>Technologies Used 🛠️</h2>
 <h4>The project is built using the following technologies:</br></br>
 
-*Java ☕: The primary programming language for implementing the application's core logic.</br></br>
+#Java ☕: The primary programming language for implementing the application's core logic.</br></br>
 MySQL 🗄️: The relational database management system used to store and manage data, including customer profiles, cab bookings, and billing details.</br></br>
 AWT (Abstract Window Toolkit) 🖌️: A Java API used to create graphical user interfaces (GUIs) for the application.</br></br>
 Swing Libraries 🎨: A set of Java GUI libraries that provide enhanced components and functionalities for creating rich and interactive graphical interfaces.</br></br>
