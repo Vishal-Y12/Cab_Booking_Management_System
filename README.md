@@ -3,11 +3,11 @@
 <h2>Technologies Used 🛠️</h2>
 <h4>The project is built using the following technologies:</br></br>
 
-<u>*Java</u> ☕: The primary programming language for implementing the application's core logic.</br></br>
-<u>*MySQL</u> 🗄️: The relational database management system used to store and manage data, including customer profiles, cab bookings, and billing details.</br></br>
-<u>*AWT</u> (Abstract Window Toolkit) 🖌️: A Java API used to create graphical user interfaces (GUIs) for the application.</br></br>
-<u>*Swing Libraries</u> 🎨: A set of Java GUI libraries that provide enhanced components and functionalities for creating rich and interactive graphical interfaces.</br></br>
-<u>*JDBC Connection</u> 🔌: Java Database Connectivity for establishing connections between the application and the MySQL database.</br>
+*Java ☕: The primary programming language for implementing the application's core logic.</br></br>
+*MySQL 🗄️: The relational database management system used to store and manage data, including customer profiles, cab bookings, and billing details.</br></br>
+*AWT (Abstract Window Toolkit) 🖌️: A Java API used to create graphical user interfaces (GUIs) for the application.</br></br>
+*Swing Libraries 🎨: A set of Java GUI libraries that provide enhanced components and functionalities for creating rich and interactive graphical interfaces.</br></br>
+*JDBC Connection 🔌: Java Database Connectivity for establishing connections between the application and the MySQL database.</br>
 </h4></br>
 <h2>Features 🌟</h2>
 <h4>The Cab Booking Management System offers a range of impressive features, including:</br></br>
@@ -24,10 +24,10 @@
 <h2>Installation and Usage 🛠️</h2>
 <h4>To run the Cab Booking Management System application, follow these simple steps:</br></br>
 
-Install Java and MySQL on your system if not already installed.</br></br>
-Create a MySQL database and import the provided SQL schema to set up the necessary tables.</br></br>
-Update the database connection details (URL, username, and password) in the Java code.</br></br>
-Compile and run the Index.java file, which serves as the entry point for the application.
+#Install Java and MySQL on your system if not already installed.</br></br>
+#Create a MySQL database and import the provided SQL schema to set up the necessary tables.</br></br>
+#Update the database connection details (URL, username, and password) in the Java code.</br></br>
+#Compile and run the Index.java file, which serves as the entry point for the application.
 </br></br></h4>
 <h2>Future Improvements 🚀</h2>
 <h4>The project has tremendous potential for further enhancements:</br></br>
